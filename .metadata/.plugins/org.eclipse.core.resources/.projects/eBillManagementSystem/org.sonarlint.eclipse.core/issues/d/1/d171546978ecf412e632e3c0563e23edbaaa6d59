@@ -1,0 +1,16 @@
+
+}
+java:S11928"IDefine a constant instead of duplicating this literal "Customer" 3 times.(òÛ¬åûÿÿÿÿH¢DRCRITICALZ
+CODE_SMELL
+Y
+java:S2201i"/The return value of "orElseThrow" must be used.(¤ÿ­ıÿÿÿÿH¦DRMAJORZBUG
+l	java:S125C"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿH§DRMAJORZ
+CODE_SMELL
+l	java:S125N"<This block of commented-out lines of code should be removed.(¿¥‚ğşÿÿÿÿHªDRMAJORZ
+CODE_SMELL
+Z
+java:S1452"&Remove usage of generic wildcard type.(ŠÌÉ üÿÿÿÿH¯DRCRITICALZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH°DRINFOZ
+CODE_SMELL

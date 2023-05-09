@@ -1,0 +1,7 @@
+
+q	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(Â…ºÕH¿RMAJORZ
+CODE_SMELL
+q	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ±×­HÀRMAJORZ
+CODE_SMELL
+g	java:S125/"<This block of commented-out lines of code should be removed.(‰°Â’HÁRMAJORZ
+CODE_SMELL

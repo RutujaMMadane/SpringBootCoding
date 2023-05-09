@@ -1,0 +1,29 @@
+package com.example.demo.service;
+
+public class ProductServiceImpl implements ProductService
+{
+	@Autowired
+	ProductRepository dao;
+	public List<Product> findAll()
+	{
+		return dao.findAll();
+	}
+	public void save(Product p)
+	{
+		dao.save(p);
+	}
+	public Optionl<Product> findById(int pid)
+	{
+		return dao.findById(pid);
+	}
+	public void update(Product p)
+	{
+		dao.save(p);
+	}
+	public void delete(int pid)
+	{
+		dao.deleteById(pid);
+	}
+
+
+}

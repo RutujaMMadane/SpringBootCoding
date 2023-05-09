@@ -1,0 +1,12 @@
+
+a
+java:S1452?"&Remove usage of generic wildcard type.(ÈÖŒ½ÿÿÿÿÿ8ùú„šü0H–DRCRITICALZ
+CODE_SMELL
+a
+java:S1452'"&Remove usage of generic wildcard type.(ŠÌÉ üÿÿÿÿ8ùú„šü0H—DRCRITICALZ
+CODE_SMELL
+m	java:S1259"<This block of commented-out lines of code should be removed.(‘ íe8ùú„šü0H˜DRMAJORZ
+CODE_SMELL
+~
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8É·Øý0H”DRMINORZ
+CODE_SMELL

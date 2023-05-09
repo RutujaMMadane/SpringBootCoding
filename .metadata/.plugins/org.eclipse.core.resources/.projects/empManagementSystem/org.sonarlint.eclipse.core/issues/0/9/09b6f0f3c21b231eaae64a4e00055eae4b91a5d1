@@ -1,0 +1,69 @@
+
+~	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯½¸ŠøÿÿÿÿHî1RMINORZ
+CODE_SMELL
+y	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìşæHï1RMINORZ
+CODE_SMELL
+c
+java:S1128
+"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;Hğ1RMINORZ
+CODE_SMELL
+	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÒ÷ùùÿÿÿÿHò1RMINORZ
+CODE_SMELL
+	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅèÿÿÿÿÿHó1RMINORZ
+CODE_SMELL
+	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼öûíÿÿÿÿÿHô1RMINORZ
+CODE_SMELL
+y	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Óè¸Hõ1RMINORZ
+CODE_SMELL
+|	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÈıHö1RMINORZ
+CODE_SMELL
+u
+java:S1128"IRemove this unused import 'org.hibernate.validator.constraints.NotEmpty'.(ı¿Å˜H÷1RMINORZ
+CODE_SMELL
+	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅèÿÿÿÿÿHù1RMINORZ
+CODE_SMELL
+x	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼²åHú1RMINORZ
+CODE_SMELL
+|	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÈıHû1RMINORZ
+CODE_SMELL
+€	java:S116"URename this field "first_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è•ÛìHü1RMINORZ
+CODE_SMELL
+	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅèÿÿÿÿÿHı1RMINORZ
+CODE_SMELL
+	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅèÿÿÿÿÿHş1RMINORZ
+CODE_SMELL
+ˆ	java:S1164"XRename this field "user_address1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ëûÿÿÿÿHÿ1RMINORZ
+CODE_SMELL
+[
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿH€2RMINORZ
+CODE_SMELL
+x	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„£©H‚2RMINORZ
+CODE_SMELL
+	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚¤ÑøÿÿÿÿHƒ2RMINORZ
+CODE_SMELL
+	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅèÿÿÿÿÿH„2RMINORZ
+CODE_SMELL
+~	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İí‚ÆùÿÿÿÿH…2RMINORZ
+CODE_SMELL
+~	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ôÌøÿÿÿÿH†2RMINORZ
+CODE_SMELL
+	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯½¸ŠøÿÿÿÿH‡2RMINORZ
+CODE_SMELL
+~	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÒ÷ùùÿÿÿÿHˆ2RMINORZ
+CODE_SMELL
+{	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼²åH‰2RMINORZ
+CODE_SMELL
+y	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉêşĞHŠ2RMINORZ
+CODE_SMELL
+~	java:S100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼öûíÿÿÿÿÿH‹2RMINORZ
+CODE_SMELL
+~	java:S100P"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‚¤ÑøÿÿÿÿHŒ2RMINORZ
+CODE_SMELL
+	java:S116$"TRename this field "last_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šø´¯H2RMINORZ
+CODE_SMELL
+ƒ	java:S1169"XRename this field "user_address2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¬ëíH2RMINORZ
+CODE_SMELL
+„	java:S116"TRename this field "eluser_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ–ÔûÿÿÿÿH2RMINORZ
+CODE_SMELL
+~	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¯ÅùÿÿÿÿH2RMINORZ
+CODE_SMELL

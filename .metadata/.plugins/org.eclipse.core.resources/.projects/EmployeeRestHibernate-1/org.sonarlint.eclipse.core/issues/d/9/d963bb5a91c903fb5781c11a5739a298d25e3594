@@ -1,0 +1,10 @@
+
+—
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "emplist".(åş·şÿÿÿÿ8»œşõ0HûRMINORZ
+CODE_SMELL
+d
+java:S1874#",Remove this use of "save"; it is deprecated.(Ã¬¾‘ÿÿÿÿÿ8»œşõ0HşRMINORZ
+CODE_SMELL
+f
+java:S18741"3Remove this use of "createQuery"; it is deprecated.(Ûñ”¨8»œşõ0HÿRMINORZ
+CODE_SMELL

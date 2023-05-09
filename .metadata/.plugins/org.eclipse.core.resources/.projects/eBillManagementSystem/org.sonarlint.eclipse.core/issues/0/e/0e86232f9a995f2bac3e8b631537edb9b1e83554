@@ -1,0 +1,17 @@
+
+‹	java:S116"TRename this field "AdminName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µä·¨ÿÿÿÿÿ8›çÅı0H±;RMINORZ
+CODE_SMELL
+…	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ«à“şÿÿÿÿ8›çÅı0H²;RMINORZ
+CODE_SMELL
+ˆ	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÎ³ìøÿÿÿÿ8›çÅı0H³;RMINORZ
+CODE_SMELL
+…	java:S116"SRename this field "Division" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÓÕ®8›çÅı0H´;RMINORZ
+CODE_SMELL
+…	java:S116 "SRename this field "Cunsumer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ßóŞ8›çÅı0Hµ;RMINORZ
+CODE_SMELL
+Š	java:S116"SRename this field "admin_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÎò­øÿÿÿÿ8›çÅı0H¶;RMINORZ
+CODE_SMELL
+ƒ	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÓ§8›çÅı0H·;RMINORZ
+CODE_SMELL
+…	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÎ³ìøÿÿÿÿ8›çÅı0H¸;RMINORZ
+CODE_SMELL

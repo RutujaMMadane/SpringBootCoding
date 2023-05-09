@@ -1,0 +1,19 @@
+
+Š
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡º‘øùÿÿÿÿH¦1RMINORZ
+CODE_SMELL
+w
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ŠÌÉ üÿÿÿÿH¨1RCRITICALZVULNERABILITY
+Z
+java:S1452"&Remove usage of generic wildcard type.(ŠÌÉ üÿÿÿÿH©1RCRITICALZ
+CODE_SMELL
+w
+java:S46847"@Replace this persistent entity with a simple POJO or DTO object.(ÈÖŒ½ÿÿÿÿÿHª1RCRITICALZVULNERABILITY
+Z
+java:S14527"&Remove usage of generic wildcard type.(ÈÖŒ½ÿÿÿÿÿH«1RCRITICALZ
+CODE_SMELL
+f	java:S1251"<This block of commented-out lines of code should be removed.(‘ íeH¬1RMAJORZ
+CODE_SMELL
+w
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—ÖùÿÿÿÿH°1RMINORZ
+CODE_SMELL

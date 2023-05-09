@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\madan\Downloads\ebillSystemProject"/>
+			<item value="C:\Users\madan\Downloads\empManagementSystem"/>
+			<item value="C:\Users\madan\Downloads\verifyproject\verifyproject"/>
+			<item value="C:\Users\madan\Downloads\empManagement"/>
+			<item value="C:\Users\madan\Downloads\empManagementSystemDemo(1)"/>
+			<item value="C:\Users\madan\Downloads\empManagementS"/>
+			<item value="C:\Users\madan\Downloads\EmployeeRestHibernate"/>
+			<item value="C:\Users\madan\Downloads\ProductJPARepository"/>
+			<item value="C:\Users\madan\Downloads\ProductJPARepositoryUsingAllImpl-1"/>
+			<item value="C:\Users\madan\Downloads"/>
+			<item value="C:\SpringBoot"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="empManagement"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
